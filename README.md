@@ -29,8 +29,8 @@ pragma solidity 0.8.18;
 
 contract MyToken {
 // public variables here
-    string public tokenName = "dotcoins";
-    string public tokenAbbrv = "marvel";
+    string public tokenName = "pingcoin";
+    string public tokenAbbrv = "bread";
     uint public totalsupply = 0;
 // mapping variable here
     mapping(address => uint) public balances;
