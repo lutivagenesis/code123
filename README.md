@@ -1,4 +1,5 @@
 MyToken Contract
+
 This is a Solidity smart contract that implements a basic token called "MyToken". The contract allows users to mint (create) and burn (destroy) tokens.
 
 Public Variables
